@@ -1,4 +1,4 @@
-# EoCIndividualpaper
+# EoC Individualpaper
 
 This repository contains the datafiles that have been used for the individual assignment for the WM0824 Economics of Cybersecurity course
 
