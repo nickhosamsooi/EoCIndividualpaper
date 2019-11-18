@@ -1,6 +1,6 @@
 # EoC Individualpaper
 
-This repository contains the datafiles that have been used for the individual assignment for the WM0824 Economics of Cybersecurity course
+This repository contains the datafiles that have been used for the individual assignment for the WM0824 Economics of Cybersecurity course. Moreover the code that has been used for the analysis can be found in a Jupyter Notebook.
 
 Note: The original Mirai infections file can be found at: https://surfdrive.surf.nl/files/index.php/s/0vw5WT2GgorszwR
 
